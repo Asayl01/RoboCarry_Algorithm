@@ -50,5 +50,5 @@ The goal is to design a compact autonomous robot capable of navigating a warehou
 8. Return to base or await next task
 9. Repeat or shut down
 ```
-![RoboCarry_Algorithm](RoboCarry_Algorithm.png)
+![RoboCarry_Algorithm](roboCarry_algorithm.png)
 
