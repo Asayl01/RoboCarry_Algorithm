@@ -49,3 +49,4 @@ The goal is to design a compact autonomous robot capable of navigating a warehou
 7. Lower forks and release pallet
 8. Return to base or await next task
 9. Repeat or shut down
+![RoboCarry_Algorithm](RoboCarry_Algorithm.png)
