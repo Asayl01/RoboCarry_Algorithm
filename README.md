@@ -21,6 +21,8 @@ The goal is to design a compact autonomous robot capable of navigating a warehou
 ---
 
 ## Design Sketch
+![robot](robot.jpg)
+![dimensions](dimensions.jpg)
 
 
 ---
